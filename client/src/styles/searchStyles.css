@@ -1,0 +1,19 @@
+.searchBox {
+    width: 50%;
+    float: none;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.searchButton {
+    margin: 1rem;
+}
+
+.moviesList {
+    float: none;
+    margin: 1rem auto;
+}
+
+.moviesList h5 {
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.movieCard {
+    margin: 1rem auto;
+    width: 50%;
+    float: none;
+}
+
+.movieCard:hover {
+    background-color: skyblue;
+    cursor: pointer;
+}

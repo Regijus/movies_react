@@ -1,0 +1,22 @@
+.main {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.addButton {
+   margin-top: 1rem;
+   margin-left: 6rem; 
+}
+
+.removeButton {
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+
+.moviePoster {
+    border: 1px solid black;
+}
